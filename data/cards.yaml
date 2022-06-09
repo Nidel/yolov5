@@ -1,0 +1,7 @@
+
+train: data/images/train  
+val: data/images/val 
+
+nc: 13  # number of classes
+names: ['A','K','Q','J','T','9','8','7','6','5','4','3','2']  # class names
+
